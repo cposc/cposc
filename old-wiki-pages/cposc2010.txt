@@ -1,0 +1,138 @@
+CPOSC 2010 was held on Saturday, October 16, 2010 at Harrisburg University in Harrisburg, PA.
+
+====== Speakers and Talks ======
+
+Open Source @ Microsoft: 5 Things You Might Not Know
+(Danilo Diaz)	
+
+Systems Administration in the Cloud - Lessons Learned
+(Drew McLain) {{:cposc2010_mclain_cloud.pdf|}}
+
+Making Java Fun Again: Web Development with Tomcat & Eclipse
+(Jim Capp) {{:cposc2009_capp_javatomcat.pdf|}}
+
+Open Source and Linux in Computer Forensics
+(Barry Grundy) {{:cposc2010_grundy_forensics.pdf|}}
+
+AEgir and Drush: A new Workflow for Drupal
+(Christian Pearce) {{:cposc2010_pearce_drupal.pdf|}}
+
+Essential Perl One-Liners
+(Walt Mankowski) {{:cposc2010_mankowski_perl.pdf|}}
+
+Using Puppet for Infrastructure Automation
+(Bill Hathaway) {{:cposc2010_hathaway_puppet.pdf|}}
+
+Solar System in your Pocket - Developing Android Applications
+(Sean Dague) {{:cposc2010_dague_android.pdf|}} {{:cposc2010_dague_android.odp|}}
+
+The JavaScript Renaissance
+(Chris Williams) {{:cposc2010_williams_javascript.pdf|}}
+
+Taking the Sting Out of the OWASP Top 10 with Mutillidae
+(Chris Teodorsk) 
+
+Why Switching To WordPress 3.0 The Best Thing You Can Do For Your Clients
+(Ryan Duff) {{:cposc2010_duff_wordpress.pdf|}}
+
+[[http://grease-your-suite.heroku.com|Grease your Suite: Tips and Tricks for Faster Testing]]
+(Nick Gauthier)
+
+MySQL Backup and Recovery: Are You Ready?
+(Christopher Grello) {{:cposc2010_grello_mysql.pdf|}}
+
+Regular Expressions for Fun and Profit
+(Brad Lhotsky) {{:cposc2010_lhotsky_regex.pdf|}}
+
+Practical Rails 3:  A View From a Guy Who Uses It Daily
+(Bryan Liles)
+
+Open Source Geospatial Technologies
+(Brian Stempin) {{:cposc2010_stempin_gis.pdf|}}
+
+Compliance, What's the Hubbub, Bub? PCI, HIPPA and SOX
+(Scott Walters) {{:cposc2010_walters_compliance.pdf|}}
+
+[[http://github.com/tclark/cposc2010|Writing Internet Applications in Python with Twisted]]
+(Tom Clark) {{:2008:cposc2010_clark_twisted.pdf|}}
+
+LessFS and ZFS: A Tale Of Fuse Filesystems
+(Brian Gorka) {{:cposc2010_gorka_lessfs.pdf|}}
+
+How FLOSS Has Failed Distributed Teams
+(Avdi Grimm) {{:cposc2010_grimm_distributedteams.pdf|}}
+
+GUI Testing and Automation with Sikuli
+(Bob Igo) {{:cposc2010_igo_sikuli.pdf|}}
+
+
+====== Sponsors ======
+
+
+===== Platinum Sponsors =====
+
+**Anteil**
+Anteil leverages technology to helps its customers achieve their business goals. With over 25 years experience in data communications, Anteil has been instrumental in leading its customers in adopting, and profiting from, Internet technology. In addition to our custom software development and integration services, Anteil is uniquely positioned to help our customers merge their telephone systems with their business software applications, providing an unprecedented level of customer service, while reducing their operating expenses.
+
+**INetU**
+INetU is a leading Managed Hosting provider delivering high-value expertise and solutions to meet your business needs. Since 1996, we have helped companies address compliance, information security, system performance, and availability for the lowest total cost of ownership. Clients like CVS, Microsoft, The United Nations, and The Discovery Education Channel depend on our tailored hosting solutions to provide outstanding online experiences to their customers. We have serviced more than 3,000 clients and maintain a customer satisfactions score of over 96% – one of the highest in the industry!
+
+===== Gold Sponsors =====
+
+**Grant Street Group**
+Grant Street Group is a small but growing technology company located in
+downtown Pittsburgh that serves the finance industry. GSG employs a
+diverse group of talented, motivated professionals who are committed to
+flawless work and customer service. Our specialty is innovating custom
+software solutions for auctions of fixed income securities as well as tax
+collection, billing, and distribution systems.
+
+**Zenoss**
+Zenoss Core is an award winning open source network monitoring and systems management project that delivers the functionality to effectively manage the configuration, health and performance of networks, servers and applications through a single, integrated software package. The Zenoss Community is comprised of over 85,000 active members who are instrumental in evolving the solution as well as providing timely support and help for all questions. One of the most active projects on SourceForge, Zenoss Core has been downloaded over one million times and is being used by companies in over 180 countries. The Zenoss Core project is sponsored by Zenoss Inc., a commercial open source independent software vendor. For more information on Zenoss Core, visit http://community.zenoss.org.
+
+===== Silver Sponsors =====
+
+**Engine Yard**
+Engine Yard cloud technology and expertise helps developers get more done faster because they don?t have to own and manage complex application infrastructure. We support the open source community and use optimized open source components in our platform to help customers save money and avoid restrictive infrastructure contracts.
+
+**GrokThis.net**
+GrokThis.net is a stable and continuely growing company, well-regarded by its customers. Since inception, we have offered cutting-edge open-source, enterprise-quality solutions.
+
+**InfoQuest Technologies**
+Since 1994, customers worldwide have used InfoQuest Hosted Internet Business Solutions to communicate on-line, manage computers, and safeguard mission critical information. From the beginning, InfoQuest has proven to be a nimble, responsive, resilient company. Characteristics that provide our customers with innovative business solutions, dependable support and a trusted business partner. Today, just as in 1994, we’re committed to the philosophy of growth as a company through the service of one customer at a time.
+
+**Percona**
+Percona is proud to use, create, and sponsor open-source software. Percona’s employees have created many open-source software projects, including XtraDB, XtraBackup, and Maatkit. We provide expert service for MySQL and LAMP applications, billed by the hour with no annual commitment. Our global 24×7 team helps hundreds of clients each month to solve performance problems, design scalable applications, and reduce operating expenses.
+
+**Virtualmin**
+Virtualmin is a powerful and flexible web server control panel based on the well-known Open Source web-based systems management GUI, Webmin. Manage your virtual domains, mailboxes, databases, applications, and the entire server, from one comprehensive and friendly interface.
+
+**xforty Technologies**
+xforty technologies provides a wide variety of technology solutions including web application development, systems management, systems integration, monitoring, governance, and support. We have broad application development experience with special concentrations in Ruby on Rails and Drupal, but provide consulting services and solutions in virtually every area of open source.
+
+
+===== Bronze Sponsors =====
+
+Ubuntu LoCo Pennsylvania
+
+Fedora
+
+Baltimore Perl Mongers
+
+====== Reviews / Blog Posts ======
+
+http://dague.net/2010/10/17/my-thoughts-on-the-central-pa-open-source-conference/
+
+http://www.brianstempin.com/2010/10/25/cposc-great-success/
+
+http://fabfuture.blogspot.com/2010/10/small-as-new-big.html
+
+http://jfitz.livejournal.com/300973.html
+
+http://www.coldcache.com/blog/cposc-2010-central-pa-open-source-conference.html
+
+http://fitzleap.blogspot.com/2010/10/open-source-in-pennsylvania.html
+
+http://febuntoo.com/parsa-hosseini-cposc-2010.html
+
+

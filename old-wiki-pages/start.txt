@@ -1,0 +1,30 @@
+~~NOTOC~~
+{{:cposc2010-white.png?nolink|}}
+====== Welcome to the CPOSC Wiki! ======
+
+The [[http://cposc.org|Central Pennsylvania Open Source Conference]] (CPOSC) is a small, low-cost, one-day conference about all things Open Source.  It will be held in October, 2012.
+
+Follow [[http://twitter.com/cposc|@cposc]] on Twitter for updates!
+===== Some notable wiki pages =====
+
+  * [[Ride sharing]] - Need a ride to CPOSC?
+  * [[Meetup]] - Going to be in town before the conference? Meet up with other geeks!
+  * [[Harrisburg|Harrisburg, PA]] - Where to go and what to do (hotels, restaurants, etc.). [[http://cposc.org/location|Maps and parking info]] are on the main site.
+  * [[CPOSC2008|CPOSC 2008]] - Info about the 2008 conference, at ITT
+  * [[CPOSC2009|CPOSC 2009]] - Info about the 2009 conference, at Harrisburg University
+  * [[CPOSC2010|CPOSC 2010]] - Info about the 2010 conference, at Harrisburg University
+  * [[CPOSC2012|CPOSC 2012]] - Info about the 2012 conference, at Harrisburg University
+  * [[Conferences|Other Conferences and Events]] - Did we miss one? Please add it!
+===== CPOSC Backchannel IRC =====
+
+Backchannel is the practice of using networked computers to maintain a real-time online conversation alongside live spoken remarks. The term was coined in the field of Linguistics to describe listeners' behaviours during verbal communication, Victor Yngve 1970.
+
+The term "backchannel" generally refers to online conversation about the topic or the speaker. Occasionally backchannel provides audience members a chance to fact-check the presentation.
+
+First growing in popularity at technology conferences, backchannel is increasingly a factor in education where WiFi connections and laptop computers allow students to use ordinary chat like IRC or AIM to actively communicate during class.
+
+   Server: irc.cplug.net:6667 or irc.cplug.net:6697 (ssl)
+   Channel: #cposc
+   Web: http://www.cplug.net/irc/
+
+//**Note for CPOSC 2010:** Not sure if Harrisburg University blocks ports 6667 and/or 6697, so you might not be able to access the backchannel directly during the conference.  The web interface should work.  You can also tunnel over ssh if you are so inclined. :)//

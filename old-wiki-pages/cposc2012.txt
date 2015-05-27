@@ -1,0 +1,41 @@
+CPOSC 2012 was held on Saturday, October 27, 2012 at Harrisburg University in Harrisburg, PA.
+
+====== Speakers and Talks ======
+
+Crash Course in Open Source Cloud Computing (Joe Brockmeier)
+
+Developing the right way with WordPress (Ryan Duff)
+
+My experience with Linux on ARM devices and where I see it going [[http://archlinuxarm.org/talks/cposc2012/slides.pdf|slides]] (Mike Brown)
+
+Kippo and bits and bits and bits (Chris Teodorski)
+
+Rock the Schoolhouse with Open Source (Charlie Reisinger)
+
+Physical Task Automation with Arduino, Android and Sikuli [[http://bob.igo.name/wp-content/uploads/2012/07/CPOSC_20121.pdf|slides]] (Bob Igo)
+
+What is PAM and why do I care? (Daniel Lohin)
+
+Why we love Git (Jason May)
+
+Comparing iOS/iPhone App vs Android mobile device development (Roger Webster)
+
+The next sys-admins manual - or "I hope you don't get hit by a bus" (Nicholas Brenckle)
+
+Linux Home Automation (Seth Jerome)
+
+Automating the Cloud [[http://vimeo.com/52327603|video]](Mat Schaffer)
+
+JavaScript Testing: Completing the BDD Circle in Web Development [[http://trevmex.github.com/js-testing-presentation|slides]] (Jeff Avallone)
+
+Nagios Is Down And Your Boss Wants To See You (Andrew Widdersheim)
+
+I am Hypermedia (And So Can You) [[https://speakerdeck.com/lmarburger/i-am-hypermedia-and-so-can-you|slides]](Larry Marburger)
+
+Keeping your code flexible (Scott Woods)
+
+Forget about Home Automation What I care about is CAMP (Terry Johnson)
+
+====== Reviews / Blog Posts ======
+
+http://blog.jds2001.org/random_thoughts/2012/10/event-report-cposc-2012.html

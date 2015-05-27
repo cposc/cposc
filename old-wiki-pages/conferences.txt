@@ -1,0 +1,16 @@
+====== Other Open Source Conferences & Events ======
+
+  * **[[http://en.oreilly.com/oscon|O'Reilly OSCON]]** - Huge open source convention on the West coast.
+
+  * **[[http://www.texaslinuxfest.org/|Texas Linux Fest (TLF)]]**
+  * **[[http://www.utosc.org/|Utah Open Source Conference]]**
+
+  * **[[http://www.socallinuxexpo.org/|Southern California Linux Expo]]** - SCALE is a community run Linux and Open-source Conference based in Los Angeles.  The event has run annually since November 2002.
+
+  * **[[http://www.ohiolinux.org/|Ohio Linux Fest]]** - The Ohio LinuxFest is a free, grassroots conference for the Linux/Open Source Software/Free Software community that started in 2003 as a large inter-LUG meeting and has grown steadily since. It is a place for the community to gather and share information about Linux and Open Source Software.
+
+  * **[[http://www.flourishconf.com/|Flourish! Open Source Conference]]** - Annual open source conference in Chicago.
+
+  * **[[http://geeknic.org|Geeknic]]** - A geeknic is rather simply a picnic for geeks.  Throughout 2009, we’re planning (and helping others plan) geeknics all over the world.  Anywhere there are geeks, we would love to see a geeknic happen.
+
+  * **[[http://opensourcebridge.org/|Open Source Bridge]]** - Open Source Bridge is a new conference for developers working with open source technologies and for people interested in learning the open source way. It’s not a typical technical conference.

@@ -1,0 +1,47 @@
+====== CPOSC 2009 ======
+
+CPOSC 2009 was held at Harrisburg University on October 17, 2009
+
+{{:cposc2009-printable-program.pdf|}}
+
+===== Speakers and Talks =====
+
+Eric Beyeler: {{:cposc2009_beyeler_mapquest.pdf|How to Get There and What’s Along the Way: Driving directions and Geospatial Search}}
+
+Kyle Burton: {{:cposc2009_burton_fuzzystrings.pdf|Survey of Fuzzy String Matching Algorithms}}
+
+Jim Capp: {{:cposc2009_capp_javatomcat.pdf|Making Java Fun Again, Web App Development with Tomcat & Eclipse}}
+
+Tom Clark: {{:cposc2009_clark_mysqltuning.pdf|MySQL Performance Tuning for non-DBAs}}
+
+Brian Gorka: {{:cposc2009-gorka-drbd.pdf|DRBD, Network RAID, High Availability and General Awesomeness}}
+
+Bob Igo: {{:cposc2009_igo_virtualbox.pdf|Virtualization is Easy Now: An Introduction to VirtualBox OSE}}
+
+Elizabeth Krumbach: {{:cposc2009_krumbach_oscontrib.pdf|Contributing to Open Source Projects}}
+
+Joshua Miller: {{:cposc2009_miller_erlang.pdf|Building Scalable, Fault-Tolerant Applications with Erlang}}
+
+Shawn Milochik: {{:cposc2009_milochik_python.pdf|Why You’ll Love Python}}
+
+Christian Pearce: {{:cposc2009_pearce_drupal.pdf|Drupal: Challenges, and Techniques for Managing Change}}
+
+Baron Schwartz: {{:cposc2009_schwartz_maatkit.pdf|Maatkit, a Toolkit for MySQL Users}}
+
+Premal Vora: {{:cposc2009_vora_r.pdf|The Statistical Significance of R}}
+
+David Whittington: {{:cposc2009_whittington_clojure.pdf|Clojure: Usable Lisp}}
+
+Owen Winkler: {{:cposc2009_winkler_osbusiness.pdf|The Business of Open Source Licensing}}
+
+Josiah Ritchie: {{:cposc2009_ritchie_networktraffic.pdf|Watching and Manipulating Your Network Traffic}}
+
+Andrew Libby: {{:cposc2009_libby_nagios.pdf|Stop Worrying and Start Monitoring with Nagios}}
+
+Phil Kostenbader: {{:cposc2009_kostenbader_cluster.pdf|Proper Use of a Computing Cluster}}
+
+
+===== Website =====
+
+{{:cposc_2009_central_pennsylvania_open_source_conference_october_17_2009_harrisburg_pa_1255743887901.png?256|}}
+

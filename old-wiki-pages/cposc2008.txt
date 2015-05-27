@@ -1,0 +1,174 @@
+~~NOTOC~~ 
+
+====== CPOSC 2008 ======
+
+CPOSC 2008 was held on Sunday, October 19, 2008 in Harrisburg, PA. 
+
+
+===== Website =====
+
+Here's a screenshot of the CPOSC 2008 website:
+
+{{:2008:cposc2008-website.jpg|}}
+
+===== Venue =====
+ITT Harrisburg Campus
+
+{{:2008:cposc2008-itt_bldgfloorplan.pdf|}}
+
+===== Schedule =====
+
+{{:2008:cposc2008-schedule.pdf|}}
+
+===== Photos =====
+
+[[http://www.flickr.com/photos/malaclypse/sets/72157608211706173/|Flickr set]]
+
+===== Speakers =====
+
+The Call For Participation began on May 1, 2008 and ended on July 11, 2008. Selected speakers were notified no later than July 25, 2008.
+
+==== Andy Blyler ====
+//Asterisk in the Work Place// 
+
+Andy Blyler began dabbling with programming and web site design in middle school when he created a web page for the student council. During high school he became a CCNA and won second place in the informational web site category in the 1999 Pennsylvania State Computer Fair. Since then, Andy has worked for many different technology companies and is well versed in Linux as well as Windows. Currently, he works for BitLeap in Carlisle, PA, where he is a Software Engineer and System Administrator.
+
+{{:2008:cposc2008-blyler-asterisk.pdf|}}
+
+==== Vikram Dighe ====
+//CakePHP: A Primer//
+
+Vikram Dighe is graduate of the Rochester Institute of Technology with a Bachelor of Science degree in Computer Science, and a minor in German language with a concentration in Mechanical Engineering. Currently CEO of Swift Signal, Inc, a business concerned with custom applications for small to medium-sized organizations.
+
+{{:2008:cposc2008-dighe-cakephp.pdf|}}
+
+==== Brian Gorka ====
+//Open Source Virtualization - Virtualization on a Dime//
+
+Brian Gorka has been in the IT industry for 13 years, and is currently working as a technical architect for a large public corporation. He’s been working with Linux since Yggdrasil was cool. Linux has been part of his job and a hobby since the .com boom. Brian has been involved with various open source projects over the years including the NT port of Emacs, and is currently working with Open Source authentication technologies from YubiCo.
+
+{{:2008:cposc2008-gorka-virtualization.pdf|}}
+
+==== Brandon Hale ====
+//Multi-threaded Network Automation with Python//
+
+Brandon Hale is a network architect in the financial services industry. He focuses on network automation, monitoring, and compliance using open source, home grown, and commercial tools. In the past he has been heavily involved in open source, packaging applications for Gentoo and Ubuntu, and contributing to GNOME and Mono projects.
+
+{{:2008:cposc2008-hale-networkautomation.pdf|}}
+
+==== Roland Hess ====
+//All Things Blender//
+
+Roland Hess has been working with graphics and imaging software for over twenty years. As one of a handful of people involved with Blender as both an active animator and a developer, he brings a unique perspective to the project that bridges the difficult gap between technical knowledge and artistic endeavor. In 2006, he worked on the award winning short “Elephants Dream,” which has recently been included in the Museum of Modern Art’s Design and the Elastic Mind exhibit. Last year, he was the editor and lead author of the Blender Foundation’s official getting started guide “The Essential Blender” (No Starch Press), and his second book “Animating with Blender” (Focal Press) begins shipping in September.
+
+==== Joe Hughes ====
+//Automated Acceptance Testing at MapQuest: An Overview of Fitnesse//
+
+Joe Hughes is a Technical Director of Software Development for MapQuest. He is a very shy and retiring person who has managed to avoid having a detailed bio written about him, despite being one of the most talented and prolific individuals in the world today.
+
+{{:2008:cposc2008-hughes-mapquestfitnesse.pdf|}}
+
+==== Bob Igo ====
+//Getting involved in an Open Source project//
+
+Since graduating from Carnegie Mellon in 1994, Bob Igo has applied his combined Computer Science / Math / German degree in his work with some of the world’s leading technology researchers and fortune 100 companies. In addition to developing custom software solutions for clients, he has worked in the diverse fields of Machine Translation, Computer-Assisted Surgery, Automated Package Sortation, Software Automation, and Quality Assurance. His driving philosophy is to make technology easier to use by implementing smart heuristics behind the scenes that encode the best practices of human experts.
+
+{{:2008:cposc2008-igo-gettinginvolved.pdf|}}
+
+==== Terry Johnson ====
+//Running your Business on Enterprise Open Source Software//
+
+Terry Johnson resides in State College, Pennsylvania along with his wife Chris Avery. Terry is an IT professional and has over 35 years experience with a majority of that time concentrating on Unix and Open Source solutions. He feels fortunate to have worked with some of the industries best and brightest talent. During his career he has worked at AT&T Bell Labs, Hewlett Packard, Sun Microsystems, and presently is co-owner of xforty technologies.
+
+==== Brad Lhotsky ====
+//Network Introspection with Open Source Tools//
+
+Brad Lhotsky works for the NIH’s National Institute on Aging (NIA) where he is primarily responsible for system security. As a small organization, NIH relies heavily on Open Source projects. As staff is also limited, he also serves as the MySQL and PostgreSQL DBA, Linux System Administrator, and Utility Perl Programmer. He’s been interested in Network Security since being hacked in 1999 through one of the countless vulnerabilities in BIND 8. Since then he’s attempted to understand software, host, and network security in the context of his direct responsibilities and the responsibilities of those around him.
+
+==== Joshua Miller ====
+//RESTful Rails: Practical Benefits//
+
+Joshua Miller works at Aegis Security Insurance Company in Harrisburg, where he develops customer-facing web applications and internal applications to simplify business processes. Since discovering the language in 2006, Josh has used Ruby, Rails, and Merb to quickly piece together complex functionality out of simple building blocks. He has started and contributed to a number of Rails plugins, including Flotilla and Cartographer. When he takes a break, he usually cooks or tries to run off the results.
+
+{{:2008:cposc2008-miller-restfulrails.pdf|}}
+
+==== Chris Moates ====
+//Scalable system administration//
+
+Chris Moates is currently head of Architecture and Systems Administration for Gaggle.Net, Inc. Since 1993, Chris has worked in the Internet Service Provider industry, building and designing a variety of software and hardware solutions for that market. Currently, he works on configuration management, anti-spam, and scalability solutions for Gaggle. Previous speaking topics Chris has presented include encryption, user security, advanced system administration, IPC, and a variety of development-related topics.
+
+{{:2008:cposc2008-moates-scalableadmin.pdf|}}
+
+==== Mark Murphy ====
+//Open, Meet Mobile: A Look At Google’s Android//
+
+Mark Murphy is the founder of CommonsWare, is the author of The Busy Coder’s Guide to Android Development (available now in finer online bookstores named after large South American rivers!), is one of the AndroidGuys, and is a frequent contributor on the Android Google Groups. When he’s not writing or slinging code, he’s pondering the intersection of politics, governance, and the Internet.
+
+==== Christian Pearce ====
+//Using Drupal//
+
+Christian Pearce lives in Harrisburg, PA and has supported open source software since he first discovered Linux at college. He has spent the last fourteen years developing web applications in Perl, PHP and Ruby or working as a system administrator configuring Apache, MySQL, Postgresql, Linux, OpenLDAP, Sendmail, Postfix or any other open source project that gets the job done. Currently he is using his skills consulting to various organizations in the region. He is also founder and CEO of a new Internet filtering service called ParentProxy.
+
+{{:2008:cposc2008-pearce-drupal.pdf|}}
+
+==== Nathan Powell ====
+//Javascript now works - An Introduction to jQuery//
+
+Nathan Powell is a technologist from Carlisle, Pennsylvania, and a consultant with xforty, LLC. He is an autodidactic Linux Systems Administrator and software developer. He has been active in the local Perl and Linux user groups for many years. As of last year he became the lead organizer for the Central PA Ruby Brigade. His main obsessions in life are running, playing with his 3 cats, and hacking Ruby. He can often be found answering and asking questions on IRC.
+
+{{:2008:cposc2008-powell-jquery.pdf|}}
+
+==== Michael Schearer ====
+//Pen Testing the Web with Firefox//
+
+Recently separated from 8+ years of active duty in the U.S. Navy, Michael Schearer (aka theprez98) is a government contractor working in central Maryland. He is a contributor to several Syngress books, including Penetration Tester’s Open Source Toolkit (Volume 2), Netcat Power Tools, and Kismet Hacking. He is an amateur radio operator and active member of the Netstumbler, DEFCON, and Remote Exploit forums, a football coach, and father of three (soon to be four!).
+
+==== Eric Smith ====
+//Hardware and Honeybees//
+
+Eric Smith is Assistant Director of Information Security and Networking at Bucknell University, located in Lewisburg, Pennsylvania. He has over 15 years of experience in information security, networking, and systems administration. When not working with his honeybees, Eric spends his time on information security research; his findings have been presented in venues such as Defcon, Shmoocon, and Nercomp. Eric is also a founding member of PreSet Kill Limit (www.pskl.us), the security research group which has won the Defcon Wardriving information security contest the past several years.
+
+{{:2008:cposc2008-smith-honeybees.pdf|}}
+
+==== David Whittington ====
+//Git Sucks - How Git Sucks and Why You’ll Use It Anyway//
+
+David Whittington is a consultant with xforty technologies and a founding member of the team working on ParentProxy, a new internet content filtering service for young children. In his spare time he enjoys tinkering with alternative Ruby runtimes, using esoteric window managers, and learning complicated version control systems. He lives in Hatfield, PA with his wife Melissa and a herd of small animals.
+
+{{:2008:cposc2008-whittington-gitsucks.pdf|}}
+
+==== Doug Warner ====
+//Architecting a Community: How Mozdev Runs and Grows//
+
+Doug Warner is currently the Site Developer for the Mozdev Community Organization. He has been an Internet enthusiast since 1997 and has specialized in Linux server administration and web application development since 2000 at ISPs and software development shops. Doug’s main goal is to build scalable, robust systems that stay out of users’ way while allowing them to get their stuff done.
+
+{{:2008:cposc2008-warner-mozdevcommunity.pdf|}}
+
+===== Sponsors =====
+[[http://www.anteil.com/| Anteil]]
+
+[[http://www.atlassian.com/|Atlassian]]
+
+[[http://xforty.com/|xforty]]
+
+[[http://bitleap.com/|BitLeap]]
+
+[[http://www.stormlogic.com/|StormLogic, LLC]]
+
+[[http://www.ansome.com/|Ansome]]
+
+[[http://www.gaggle.net/|Gaggle.Net]]
+
+[[http://www.virtualmin.com/|Virtualmin]]
+
+[[http://www.parentproxy.com/|ParentProxy]]
+
+[[http://fedoraproject.org/|Fedora]]
+
+[[http://www.activestate.com/|ActiveState Software Inc.]]
+
+[[http://oreilly.com/|O'Reilly Media]]
+
+[[http://pragprog.com/|The Pragmatic Programmers, LLC.]]
+
+[[http://openthought.net/|OpenThought, LLC]]
