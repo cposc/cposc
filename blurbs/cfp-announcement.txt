@@ -1,0 +1,15 @@
+Subject: CPOSC 2015 Call for Proposals
+
+This year's conference will be on Saturday, October 17th, 2015 at IU 13 Lancaster, Pennsylvania.
+
+For those of you who aren't familiar with it, the Central PA Open Source Conference (CPOSC) is a small, low-cost, one-day conference about all things Open Source. It was started in 2008, and this year's conference will be our seventh event.
+
+The Call for Participation (CFP) is now open, so we are looking for interesting speakers and talks.  If you are interested in speaking at this year's conference, check out the details here:
+
+ http://cposc.org/become-a-speaker/
+
+All topics from coding/dev to system admin and security are welcome.  The only requirements are a good understanding of your topic and some enthusiasm! :)  The deadline to submit talk proposals is Friday, July 31st, 2015.
+
+Thanks,
+
+www.cposc.org | Follow @cposc on Twitter for updates!
